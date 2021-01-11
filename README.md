@@ -7,9 +7,9 @@
 # مهدی صدری
 - [PNU_3991_AR](https://github.com/sadri2020/PNU_3991_AR)
 - [Resume](https://sadri2020.github.io/) 
-- [SOP](https://saharzeinivand.github.io/Sop/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
+- [SOP](https://sadri2020.github.io/SOP.html)
+- [Certificates](https://sadri2020.github.io/cert.html)
+- [GitHub](https://github.com/sadri2020)
 
 ------------------
 > ارزیابی ها
