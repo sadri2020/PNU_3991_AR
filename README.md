@@ -16,15 +16,15 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/sadri2020/PNU_3991_AR/blob/main/MS_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/sadri2020/PNU_3991_AR/blob/main/MS_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/sadri2020/PNU_3991_AR/blob/main/MS_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
 ------------------
 ## درس  
 
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
+[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/sadri2020/PNU_3991_AR/)
 
 --------------
 ## گروه درسی
