@@ -5,8 +5,8 @@
 ---------
 
 # مهدی صدری
-- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
-- [Resume](https://saharzeinivand.github.io/) 
+- [PNU_3991_AR](https://github.com/sadri2020/PNU_3991_AR)
+- [Resume](https://sadri2020.github.io/) 
 - [SOP](https://saharzeinivand.github.io/Sop/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
